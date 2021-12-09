@@ -1,2 +1,2 @@
 # KPW-Engine
-KPW Engine is a Game Engine made in Java with OpenGL
+KPW Engine is an OpenSource Game Engine made in C++ with OpenGL
