@@ -1,0 +1,3 @@
+/Users/yannberton/CLionProjects/KPW-Engine/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/yannberton/CLionProjects/KPW-Engine/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/yannberton/CLionProjects/KPW-Engine/cmake-build-debug/CMakeFiles/KPW_Engine.dir
